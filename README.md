@@ -75,7 +75,7 @@ PROGRAM :
 <head>
 <meta charset="utf-8">
 <title>Drawing App</title>
-<link rel="stylesheet" href="ex04.css" type="text/css" media="screen" title="no title">
+<link rel="stylesheet" href="ex05.css" type="text/css" media="screen" title="no title">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -111,13 +111,14 @@ PROGRAM :
 	</div>
 </div>
 <script src="https://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
-<script src="ex04.js" type="text/javascript" charset="utf-8"></script>
+<script src="ex05.js" type="text/javascript" charset="utf-8"></script>
 </body>
 </html>'''
 
 ## OUTPUT:
 
 -- include your output screenshots ---
+![output](./paintapp.png)
 
 ## Result:
 
