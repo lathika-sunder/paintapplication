@@ -64,8 +64,9 @@ Validate the HTML code.
 Step 6:
 Publish the website in the given URL.
 
-PROGRAM :
-'''
+###PROGRAM :
+
+```
 <html>
   
   <!--
@@ -113,7 +114,8 @@ PROGRAM :
 <script src="https://code.jquery.com/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="ex05.js" type="text/javascript" charset="utf-8"></script>
 </body>
-</html>'''
+</html>
+```
 
 ## OUTPUT:
 
